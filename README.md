@@ -1,8 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Soumya</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
-
-- 💬 Ask me about **Java, flutter, react etc.**
+<h3 align="center">A passionate full stack developer from India</h3
 
 - 📫 How to reach me **soumyaranjan1616@gmail.com**
 
