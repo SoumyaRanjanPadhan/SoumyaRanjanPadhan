@@ -9,7 +9,7 @@
 
 ## 🛠️ Languages and Tools:
 
-<p align="center">
+<div align="center">
   <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50"/></a>
 
   <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50"/></a>
@@ -50,7 +50,7 @@
   
   <a href="https://reactnative.dev/" target="_blank"><img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="50"/></a>
   
-</p>
+</div>
 
 ---
 
